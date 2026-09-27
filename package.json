@@ -1,0 +1,20 @@
+{
+  "name": "cordova-plugin-passkeys",
+  "version": "0.1.0",
+  "description": "Cordova Plugin for Android to use Passkeys",
+  "cordova": {
+    "id": "net.sgj0.cordova.plugin.passkeys",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": "github:sgj0/cordova-plugin-passkeys",
+  "keywords": [
+    "cordova",
+    "passkeys",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "sgj0",
+  "license": "MIT"
+}
